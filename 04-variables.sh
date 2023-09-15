@@ -8,4 +8,4 @@ NUMBER3=$3
 # i need to run a command inside shell to add these 2 numbers
 SUM=$((NUMBER1+NUMBER2))
 
-echo "Adittion os two numers is : $sum
+echo "Adittion os two numers is : $SUM

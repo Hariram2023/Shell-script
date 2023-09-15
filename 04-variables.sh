@@ -6,6 +6,6 @@ NUMBER1=$1
 NUMBER2=$2
 NUMBER3=$3
 # i need to run a command inside shell to add these 2 numbers
-SUM=$((NUMBER1+NUMBER2))
+SUM=$((NUMBER1+NUMBER2+NUMBER3))
 
-echo "Adittion os two numers is : $SUM
+echo "Adittion os two numbers is : $SUM"

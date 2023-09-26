@@ -24,8 +24,8 @@ yum install postifix -y
 
 if [ $? -ne 0 ]
 then 
-    echo "installtion of postfix is error"
+    echo "installation of postfix is error"
     exit 1
 else
-    echo "installtion of postfix is success"
+    echo "installation of postfix is success"
 if    

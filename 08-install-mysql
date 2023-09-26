@@ -20,7 +20,7 @@ else
     echo "installation of mysql is success"
 if        
 
-yum install postifx -y
+yum install postifix -y
 
 if [ $? -ne 0 ]
 then 

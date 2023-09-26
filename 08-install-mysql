@@ -18,7 +18,7 @@ then
     exit 1  
 else
     echo "installation of mysql is success"
-if        
+fi      
 
 yum install postifix -y
 
@@ -28,4 +28,4 @@ then
     exit 1
 else
     echo "installation of postfix is success"
-if    
+fi
